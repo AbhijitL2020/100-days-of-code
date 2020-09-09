@@ -1,30 +1,10 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: Sep 8, 2020
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**:  Set up Windows Terminal, WSL2, AND created an account and used GitHub!
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** Oh shit! I just read that it has to be CODE only, not the other things like tutorial and so on. That is going to complicate my quest. I want to learn Go Flutter and Dart. But I thought I will do it as I go. I want to build a toolset along with it. For example, if I were to plan the Error Message management system as a project, then I need to plan. Which is a good tool to plan? And I need to design. Which is the good tool to Design? All these questions, and answers to them is also a part of my 100DoC quest. I want to build an ecosystem around the project in which I will be improving my knowledge of modern day development paradigm. So...
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [I think I found something that is not documented in WSL2 setup](https://twitter.com/zero2null/status/1303180547049496577)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
