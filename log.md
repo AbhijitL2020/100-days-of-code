@@ -21,3 +21,11 @@ I came across the book Learning Go through the reference
 I had fun writing my first program hello.go, and try out some tweaks based on the info there. 
 
 However my struggles with git/github continue. This thing is hard to learn!
+
+### Day 2: Sep 10, 2020
+
+**Today's Progress**: Writing m first few programs in Go, esp to try out slice, and then the firs exercise 
+
+**Thoughts**: It was interesting to try out the concepts read yesterday, and combine them with the new stuff from today. THen I put it into a scrap program. Ensureed that I got run time errors, and also completions. The topics are going deeper.
+Coming from a lengthy C heritage, I fee at times, that the Golang has been made to overcome the shortcomings. However, at times it sounds too clever?!
+Today, I had a little trouble to find free time to do the daily hour! Just a taste of things to come, I guess?!
