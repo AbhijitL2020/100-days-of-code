@@ -29,3 +29,21 @@ However my struggles with git/github continue. This thing is hard to learn!
 **Thoughts**: It was interesting to try out the concepts read yesterday, and combine them with the new stuff from today. THen I put it into a scrap program. Ensureed that I got run time errors, and also completions. The topics are going deeper.
 Coming from a lengthy C heritage, I fee at times, that the Golang has been made to overcome the shortcomings. However, at times it sounds too clever?!
 Today, I had a little trouble to find free time to do the daily hour! Just a taste of things to come, I guess?!
+
+### Day 3: Sep 11, 2020
+
+**Today's Progress**: Not in terms of the Chapters in LearningGo, but tried out what I had learnt till yesterday
+
+**Thoughts**: 
+Just leaned into the code from yesterday, and tried to build understanding of different language features
+
+* used maps
+* used constants
+* used a separate function to print
+* optimized the algo
+* used different form of for "post" condition.
+* Did some string conversion, concatenation
+
+Added a rather audacious [tweet-for-the-day](https://twitter.com/zero2null/status/1304468009562509312?s=20)
+iBy the way, if I can concatenate strings using a +, is it not operator overloading? No, I am not complaining, just want to get my head cleared.
+
