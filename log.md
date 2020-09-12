@@ -47,3 +47,20 @@ Just leaned into the code from yesterday, and tried to build understanding of di
 Added a rather audacious [tweet-for-the-day](https://twitter.com/zero2null/status/1304468009562509312?s=20)
 iBy the way, if I can concatenate strings using a +, is it not operator overloading? No, I am not complaining, just want to get my head cleared.
 
+### Day 4: Sep 12, 2020
+
+** Today's Progress**: Started wtih Functions in Go, and did some recursion, call backs and other funcy stuff!
+
+** Thoughts**:
+The language retains so many similarities to C, and yet veers away from it in a dizzing fashion.
+
+defer? That is a nice touch! Is it used much? Shades of that something called AOP?
+So defer needs a function call ONLY! Not a statement. This is something restrictive, and instructive too!
+Variadic? What a toungue-twister!
+Boy, with so many concepts to digest, learning Go is going to be a long process. When will I get to trial out all these concepts and variations?
+No exceptions?! Panic? Yes, I am already panicking. Hope to recover soon! :)
+
+This is the [tweet for the day] (https://twitter.com/zero2null/status/1304822870619516931?s=20)
+Callback is also a novel concept. I have read it in JS, but never used it. And here also I am not too convinced. But we shall see.
+
+Before I proceed far, I need to understand the concept of a callback and a closure clearly.
