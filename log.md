@@ -49,9 +49,9 @@ iBy the way, if I can concatenate strings using a +, is it not operator overload
 
 ### Day 4: Sep 12, 2020
 
-** Today's Progress**: Started wtih Functions in Go, and did some recursion, call backs and other funcy stuff!
+**Today's Progress**: Started wtih Functions in Go, and did some recursion, call backs and other funcy stuff!
 
-** Thoughts**:
+**Thoughts**:
 The language retains so many similarities to C, and yet veers away from it in a dizzing fashion.
 
 defer? That is a nice touch! Is it used much? Shades of that something called AOP?
@@ -60,7 +60,30 @@ Variadic? What a toungue-twister!
 Boy, with so many concepts to digest, learning Go is going to be a long process. When will I get to trial out all these concepts and variations?
 No exceptions?! Panic? Yes, I am already panicking. Hope to recover soon! :)
 
-This is the [tweet for the day] (https://twitter.com/zero2null/status/1304822870619516931?s=20)
+This is the [tweet for the day](https://twitter.com/zero2null/status/1304822870619516931?s=20)
 Callback is also a novel concept. I have read it in JS, but never used it. And here also I am not too convinced. But we shall see.
 
 Before I proceed far, I need to understand the concept of a callback and a closure clearly.
+
+
+### Day 5: Sep 13, 2020
+
+**Today's Progress**: Read a ORM+REST etc app, created a package, documented it, and added Unit Testing!
+
+**Thoughts**:
+Package is a namespace
+The nuances: A function name starting with a Capital letter is exported, i.e. can be used outside the package.
+If function name starts with small case, it is a private function. BTW, it applies to Type, Global variables, etc
+
+The convention in Go is to use CamelCase rather than underscores to write multi-word names.
+
+And we hit up on the (unit) testing part, which is what I was looking forward to!
+
+This package thing though: How is this thing going to be organized. It needs to be under $GOPATH/src/even ?
+And I have not understood how it compiles,what is its intermediate code, etc
+
+Did the documentation. Looks a bit less structured than JavaDoc. Why?
+And Unit Testing also, but not the Example part
+
+Here is the [tweet_for_the_day](https://twitter.com/zero2null/status/1305200879373410304?s=20)
+
