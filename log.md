@@ -87,3 +87,30 @@ And Unit Testing also, but not the Example part
 
 Here is the [tweet_for_the_day](https://twitter.com/zero2null/status/1305200879373410304?s=20)
 
+
+### Day 6: Sep 14, 2020
+
+**Today's Progress**: Read a OAuth2.0 using Go app, created second package, documented it, and had fun
+
+**Thoughts**:
+Gad! I had blast today...
+
+I wrote a package. A simple Stack, nothing much, but went way beyond what the book expected me to do.
+
+In it used Const. Package name same as the file name. Defined a type using struct, made it public, I guess. "Stack"
+
+Created Push and Pop functions (well, methods), then made sure that they get passing-by-reference values. Not passing-by-value
+
+So I had to allocate the variable using new() in my calling /main function. And whats that? Not mentioned anywhere yet!
+
+Added error handlign that not more than 10 values can be added. And cannot pop out of an empty stack.And used the comma ok format.
+
+A bit late, so did not add the unit testing today. Thats left for tomorrow.
+
+And it worked, man! So the multiple return values and the multi-assignment, though I did not like it first, I did use it, happily :)
+
+Here is the [twee-for-the-day](https://twitter.com/zero2null/status/1305569818389573632?s=20)
+But I am still not very convinced about some of the choices. Why not a constructor?
+
+I eschewed writing bubble sort yesterday. But I need to see it as just an opportunity to build the muscle memory.
+
