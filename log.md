@@ -114,3 +114,18 @@ But I am still not very convinced about some of the choices. Why not a construct
 
 I eschewed writing bubble sort yesterday. But I need to see it as just an opportunity to build the muscle memory.
 
+### Day 7: Sep 15, 2020
+
+**Today's Progress**: Tried to add Unit Testing to Stack, new, make, pointer and &. Tiring
+
+**Thoughts**:
+Found the going hard. [Tweet-for-the-day](https://twitter.com/zero2null/status/1305921633916301312?s=20)
+
+Spent some time struggling with the Unit Testing for the code Stac done yesterday. Was fairly frustrated with it.
+I guess I need to learn more about type initialization, etc. So left it half done.
+
+Then moved on to next chapter of Learning Go: Chapter 5. Beyond the Basics
+And I found myself being rushed through several key concepts, in short one or two lines. I could not wrap my head around so many at once.
+Lack of hands-on examples for each one of the concepts also hurt. So I need to go over the stuff again tomorrow.
+The day had left me weary. Did it affect my comprehension?
+
