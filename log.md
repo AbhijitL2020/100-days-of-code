@@ -127,5 +127,26 @@ I guess I need to learn more about type initialization, etc. So left it half don
 Then moved on to next chapter of Learning Go: Chapter 5. Beyond the Basics
 And I found myself being rushed through several key concepts, in short one or two lines. I could not wrap my head around so many at once.
 Lack of hands-on examples for each one of the concepts also hurt. So I need to go over the stuff again tomorrow.
+
 The day had left me weary. Did it affect my comprehension?
+
+
+### Day 8: Sep 16, 2020
+
+**Today's Progress**: No success with unit testing, but did hands on new, make, pointers and address
+
+I was so upset with yesterday's unsatisfactory performance, that I got on to the task early in the morning!
+
+Got down to trying each concept once again through writing a program, and trying it out by hand.
+
+And then it was a very useful journey of discovery.
+
+Once again did some slices, some pass-by-value and pass-by-reference
+
+Came across a few problems, roadblocks, and learnt from each one of them.
+
+
+**Thoughts**:
+Not as frustrated with life as yesterday ;) [Tweet-for-the-day](https://twitter.com/zero2null/status/1306294462293839873?s=20)
+The progress is laborious. I think I need another 10 days of focus on basics.
 
