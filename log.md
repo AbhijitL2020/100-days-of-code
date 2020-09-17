@@ -150,3 +150,19 @@ Came across a few problems, roadblocks, and learnt from each one of them.
 Not as frustrated with life as yesterday ;) [Tweet-for-the-day](https://twitter.com/zero2null/status/1306294462293839873?s=20)
 The progress is laborious. I think I need another 10 days of focus on basics.
 
+
+### Day 9: Sep 17, 2020
+
+**Today's Progress**:
+
+And I found that I have already covered a number of things in Structures in my Stack Example only.
+A bonus realization is: Go is not a object oriented language. It does not support inheritance, but works on composition. Need to check this out.  However, with no constructor being the official position, I can still do some such things anyway.  However, I need to change my outlook to suit the native Go coding paradigm. What is that? Need more examples [Tweet-for-the-day](https://twitter.com/zero2null/status/1306633218850914310?s=20)
+
+Ha! the opinionated language -> type conversions are strictly controlled.
+I spent some time on going through teh git workflow. It was essential. One of the goals of my endeavor is Learn Git. And so spending time today was absolutely essential. [This](https://gist.github.com/blackfalcon/8428401) is now my bible!
+
+**Thoughts**:
+It is proving truly to be a challenge.
+The progress is still slow. But I keep on finding stuff that says I learn everyday.
+Here is the thing: Learning a language is a daunting task. Add to it the tooling challenge. And that makes it tougher. But picking up the gauntlet publically keeps you going!
+
