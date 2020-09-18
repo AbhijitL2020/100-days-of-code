@@ -166,3 +166,16 @@ It is proving truly to be a challenge.
 The progress is still slow. But I keep on finding stuff that says I learn everyday.
 Here is the thing: Learning a language is a daunting task. Add to it the tooling challenge. And that makes it tougher. But picking up the gauntlet publically keeps you going!
 
+
+### Day 10: Sep 18, 2020
+
+**Today's Progress**:
+
+In the morning read a very important but very minute difference between a pointer to a type passed as an argument versus the object. Remember pass-by-value and pass-by-reference!
+
+30 years ago I wrote my first implementation of Doubly Linked list in C. I doubt whether I have had a chance to do it over again, till today! It was fun. And I came out with a very clean implementation.
+Only the nomenclature could have been better. But overall, I liked the complexity, and my clean solution.
+[Tweet-for-the-day](https://twitter.com/zero2null/status/1307022384818397184?s=20)
+
+**Thoughts**
+Today is Sat Sep 17. I have completed 10 days of this challenge. I feel happy. I feel invigorated. I also thank my family for giving me the time it is required to spare for this activity. There is a long way to go. Along with Golang, I am making slow but deliberate progress on git, too. And building a bit of confidence in it.
