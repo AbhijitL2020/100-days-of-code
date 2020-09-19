@@ -179,3 +179,29 @@ Only the nomenclature could have been better. But overall, I liked the complexit
 
 **Thoughts**
 Today is Sat Sep 17. I have completed 10 days of this challenge. I feel happy. I feel invigorated. I also thank my family for giving me the time it is required to spare for this activity. There is a long way to go. Along with Golang, I am making slow but deliberate progress on git, too. And building a bit of confidence in it.
+
+
+
+
+### Day 11: Sep 19, 2020
+
+**Today's Progress**:
+
+I did not do coding by hand, so as to say. But I studied the cat program that Learning Go had given as assignment. And I learnt a lot from it. [Tweet-for-the-day](https://twitter.com/zero2null/status/1307389936262246400?s=20)
+Downloaded John Arundel's [book](https://bitfieldconsulting.com/).
+And it immediately helped me with gofmt. Interesting.
+Got introduced to package flag! Wow! I mean WOW! What I would have had many lines do, it did it for me very simply!
+Also, an observation: I initialized a variable outside of main by invoking a function outside of main. So it must be getting executed... when?!
+And there I saw a reference to func init() in documentation of flag. What is this? Holy Crap! https://stackoverflow.com/questions/24790175/when-is-the-init-function-run Seems a big enough topic by itself.
+There is such a rigmarole to go through, while opening a file. Why is not a simple fopen there? Or is it there, and just that I do not know?
+* os
+* bufio
+* io
+Very happy to learn about the flag package! Daunting to see so many methods in it. 
+
+I think, I checked out the branch afer doing git commit. Hence today, it did not ask me to check it out first.
+
+**Thoughts**
+Hmm, the list of packages left me dumbstruck. To master the language is going to be a long trudge.
+And side by side the TDD also is going to pose a number of challenges. 100 more like 1000! :)
+
