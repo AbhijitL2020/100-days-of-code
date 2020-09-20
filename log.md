@@ -213,3 +213,31 @@ Hmm, the list of packages left me dumbstruck. To master the language is going to
 
 And side by side the TDD also is going to pose a number of challenges. 100 more like 1000! :)
 
+
+### Day 12: Sep 20, 2020
+
+**Today's Progress**:
+
+So there are interfaces, which are overloaded, and there types implementing interfaces, but not declaring it.I mean what! And on top of all this something called duck Typing!
+
+*If it walks like a duck and it quacks like a duck, then it must be a duck*: Never thought this syllogism will make it to programming, Arrgh!
+
+.(type) syntax is only valid within a switch statement! Arent we jumping through hoops?!
+
+Here is a chanllenge - can I use the understand of interfaces to easily implement the Stack for int or string?
+Let us figure out what is the question here.
+
+Actually my use case is - I want to put anything on the stack - int or string
+
+But let us water the usecase sdown to rto say that I will tell you whether I want to use int or String stack.
+So New function will take the parameter to say int or String. And then we should validate 
+
+So I was able to get the code strung up like the user of my package does not see any implementation details. But when it comes to the package itself, I failed to get the structure allocated dynamically - array of int or array of string.
+
+That is pathetic.
+
+[Tweet-for-the-day](https://twitter.com/zero2null/status/1307690510295859206?s=20)
+
+
+**Thoughts**:
+Today being Sunday, I was able to spend somewhat more time with Golang. However, I am getting strange vibes with the seemingly weird stuff. This interface thingee seems to have been much more complicated than necessary. And the book says it is powerful!
