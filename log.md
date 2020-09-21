@@ -241,3 +241,19 @@ That is pathetic.
 
 **Thoughts**:
 Today being Sunday, I was able to spend somewhat more time with Golang. However, I am getting strange vibes with the seemingly weird stuff. This interface thingee seems to have been much more complicated than necessary. And the book says it is powerful!
+
+
+### Day 13: Sep 21, 2020
+
+**Today's Progress**:
+Jon @bitfield requested access to my code, which I was so dejected about. Will see if he responds with any comments.
+
+Today I learn goroutines and concurrency. Also some kind of concurrency control using chan.
+
+Doing the one example was useful. But I do not still know whether it has given me wherewithal for any useful goroutine use cases. Need to find som, may be in other documentation, and get some more insights into it.
+
+[Tweet-of-the-day](https://twitter.com/zero2null/status/1308090971800793088?s=20)
+
+
+**Thoughts**:
+In my planning, this concurrency of Go was a great asset. Something I wanted to build real knowledge. I think with this I am coming close to the journey of the language. But I have yet to grasp a number of concetps here. GORM and TDD for sure!
