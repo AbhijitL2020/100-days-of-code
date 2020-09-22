@@ -257,3 +257,32 @@ Doing the one example was useful. But I do not still know whether it has given m
 
 **Thoughts**:
 In my planning, this concurrency of Go was a great asset. Something I wanted to build real knowledge. I think with this I am coming close to the journey of the language. But I have yet to grasp a number of concetps here. GORM and TDD for sure!
+
+
+
+### Day 14: Sep 22, 2020
+
+**Today's Progress**:
+I was happy to have figured out the totally generic Stack. Also figured out interface{} is a powerful concept, much more than I had earlier sensed.
+
+In the process, I reached the end of the book Learning Go by @miekg
+
+There are a number of points from Chapter 8-Communications, taht I read and glossed over. But I am sure I am going to come back to them in due course.
+
+Now the next step. Started with @bitfield https://github.com/AbhijitL2020/ftl-fundamentals
+
+This will teach me TDD. And probably cover up a big hole in my maturity as a developer.
+
+
+**Thoughts**:
+So here we are. Making progress on Golang. Learnign the syntax, and trying to understand the heart of the language.
+
+Till now it is promising. I am able to learn some things, question myself, improvise on the problem, and figure out what is required to get my version of problems sorted out.
+
+There are two directions from here. TDD is one, and building Web Applicationsis another. And we need to progress along bothe ways.
+
+It is 15 days over. About one seventsh of the way.
+
+My problem is Git is still as inscrutable as earlier. However, I need to be at it unsparingly. That is the only way.
+
+And remember we have CSS3, Visual Design, Dart, Flutter on our target. We still need to figure out the whole of productive toolset for the Product development activity. 
