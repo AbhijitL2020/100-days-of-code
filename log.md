@@ -281,8 +281,53 @@ Till now it is promising. I am able to learn some things, question myself, impro
 
 There are two directions from here. TDD is one, and building Web Applicationsis another. And we need to progress along bothe ways.
 
-It is 15 days over. About one seventsh of the way.
+It is now 15 days into the journey of at least 100 days. About one seventh of the way.
 
-My problem is Git is still as inscrutable as earlier. However, I need to be at it unsparingly. That is the only way.
+My problem is Git. It is still as inscrutable as ever. I need to be at it unsparingly. That is the only way.
 
 And remember we have CSS3, Visual Design, Dart, Flutter on our target. We still need to figure out the whole of productive toolset for the Product development activity. 
+
+
+
+
+### Day 15: Sep 23, 2020
+
+**Today's Progress**:
+Started on with For the love of Go - Fundamentals
+
+The stretch goal send me down a rabbit hole. I am yet to figure out what is wrong vim-go debugging. 
+What is vim, and what is vim-go, and what is :T and whether or not I am able to or I should use kassio/neoterm.
+So many questions. Also the questions like how the heck this works? I have first used vi may be 30+ years ago.
+I suspected it is a very high-powered editor. And that people customize the heck out of it. But I never ventured to find out.
+
+Finally, I glanced that way, and blinded with brilliance, I am! It seems I can be a lot more productive with the tools. Thanks to the stretch goal!
+
+Read bit on vim-go
+
+In between I had to detour to installing gcc!
+
+:GoInstallBin
+:GoDebugBreakpoint
+:GoDebugStart
+:GoDebugNext
+:GoDebugStop
+I do not think the above lot worked. But I will come back to it soon.
+
+And then the key:
+
+:GoBuild
+:GoTest
+
+Yes, these did work...
+
+This is fantastic. But that sapped my energy and now calling it a day.
+
+Oh yes, I read an article on Interfaces: https://medium.com/@kent.rancourt/go-pointers-why-i-use-interfaces-in-go-338ae0bdc9e4
+Then there was an article by John @bitfield on Generics in Go. And I liked the approach. To see the line of thinking behind how an idea gets crystallized, it is definitely interesting.
+[Tweet-for-the-day](https://twitter.com/zero2null/status/1308823011307397120?s=20)
+
+
+
+**Thoughts**:
+@bitfield was considerate enough to send it my way. It was in response to my declaring that I had converted my stack to full generic!
+
