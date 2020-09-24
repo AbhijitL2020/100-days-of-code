@@ -331,3 +331,16 @@ Then there was an article by John @bitfield on Generics in Go. And I liked the a
 **Thoughts**:
 @bitfield was considerate enough to send it my way. It was in response to my declaring that I had converted my stack to full generic!
 
+
+
+
+### Day 16 Sep 24, 2020
+
+**Today's Progress**:
+
+Continuing with the book by @bitfield
+Read this article https://medium.com/technofunnel/polymorphism-with-golang-interfaces-b2f58a05b221
+
+
+**Thoughts**:
+A lot of work today. And important day tomorrow. Found it difficult to concentrate
