@@ -364,3 +364,21 @@ It is my contention that Golang should have imposed a more stringent requirement
 
 **Thoughts**:
 100DaysOfCode is pushing me to reexamine many biases I have held. And that is also helping me in my work directly.
+
+
+
+### Day 18: Sep 26, 2020
+
+**Today's progress**:
+Had an exchange of tweets or mails with @bitfield . He was so gracious to help! I probably had my first experience of the OpenSource community works to help each other. Hope some day I will be able to repay this favor.
+
+But some points like that float compare is a bit tricky.
+
+Now, @bitfield got me to open my first PR, too! So thats a noivelty, and a major step on my learning the git way of life.
+
+
+**Thoughts**:
+It is important that I need to pick up steam in this journey. I have detected a bit of slowing down in last couple of days. No point in giving up the advantage.
+
+An interesting thing is - I spoke in glowing terms of the experience in #100DaysOfCode with two of my wizened colleagues. Everyone needs a push. This is my bit.
+
