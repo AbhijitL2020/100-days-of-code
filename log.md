@@ -344,3 +344,23 @@ Read this article https://medium.com/technofunnel/polymorphism-with-golang-inter
 
 **Thoughts**:
 A lot of work today. And important day tomorrow. Found it difficult to concentrate
+
+
+
+### Day 17: Sep 25, 2020
+
+**Today's Progress**:
+I am looking for a good requirements documentation tool.
+Today, well, at the end of the day the internet just sopped working. Hence the delay in sending the status. I was rather tired by the end of the day, and hence chose not to struggle with alternet internet, hotspot and so on.
+
+Yesterday, I did work on several things including calculator. I got somewhat into Angular. Found out a lot of resources in that area. But this was for the work.
+
+I got stumped into calculator with float comparison. So read a bit on that. However, it is rather unsatisfactory.
+Even something like math/big.Cmp is not giving me a simple result. It says 4.030000 is not the same as 4.030000! This is so basic that I am stumped! So I went into a few resources and tried to figure it out. Well, I understand the complexity. But, for general use, I think there should be a more commonly available function.
+
+Then I tried to use t.Fatalf. And then tried to refer to defer. But somehow it did not work. I am not able to figure out why Fatalf wont work with defer.
+
+It is my contention that Golang should have imposed a more stringent requirement on documentation style
+
+**Thoughts**:
+100DaysOfCode is pushing me to reexamine many biases I have held. And that is also helping me in my work directly.
